@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReduxJs-61DAFB?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-react_router-61DAFB?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react-native&logoColor=white" />
 <img src="https://img.shields.io/badge/-materialUI-61DAFB?style=for-the-badge&logo=materialui&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=green" />
@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-mapBox-61DAFB?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/-Twilio-E95420?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bootstarp-43853D?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/-react Bootstarp-E95420?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/-mapBox-61DAFB?style=for-the-badge&logo=map&logoColor=white" />
+<img src="https://img.shields.io/badge/-Twilio-E95420?style=for-the-badge&logo=Twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstarp-43853D?style=for-the-badge&logo=Bootstarp&logoColor=white" />
+<img src="https://img.shields.io/badge/-react Bootstarp-E95420?style=for-the-badge&logo=react-bootstarp&logoColor=white" />
 
 
 
