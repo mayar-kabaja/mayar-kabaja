@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReduxJs-61DAFB?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-react_router-61DAFB?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react-native&logoColor=white" />
+<img src="https://img.shields.io/badge/-react_native-914359?style=for-the-badge&logo=react-native&logoColor=white" />
 <img src="https://img.shields.io/badge/-materialUI-61DAFB?style=for-the-badge&logo=materialui&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=green" />
