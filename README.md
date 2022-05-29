@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>About Me </h1>
 
 - 👋 I'm Mayar Kabaja 
-- 💻 Software engineering student [Al-Azhar university ](http://www.alazhar.edu.ps/eng/)
+- 💻 Software engineer  [Al-Azhar university ](http://www.alazhar.edu.ps/eng/)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 
 
