@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👋 I'm Mayar Kabaja 
 - 💻 Software engineer  [Al-Azhar university ](http://www.alazhar.edu.ps/eng/)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
+- 💬 My projects at [Portfolio](https://mayar-kabaja.github.io/portfolio/)
 
 
 <br />
